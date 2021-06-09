@@ -29,4 +29,4 @@ git remote remove origin
 -[Git Remote Docummentation](https://git-scm.com/docs/git-remote)
 
 ---
-[Back to home](../README.md)
+[Back to home](./README.md)

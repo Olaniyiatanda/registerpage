@@ -26,4 +26,4 @@ After this command is used, you can just use `git push` and it will function the
 - [Git Push Documentation](https://git-scm.com/docs/git-push)
 
 ---
-[Back to home](../README.md)
+[Back to home](./README.md)
